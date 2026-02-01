@@ -1,6 +1,8 @@
 📊 Desafio de Projeto: Processamento de Dados com Power BI
 Este projeto consistiu na estruturação de um modelo de dados em Star Schema (Esquema Estrela) a partir de uma base de dados bruta ("Financial Sample"). O objetivo foi otimizar a performance do relatório e facilitar a criação de medidas analíticas.
 
+![Esquema Estrela do Projeto](starSchemaPI.png)
+
 🛠️ Etapas do Projeto
 Transformação de Dados: Realizei a limpeza e o agrupamento dos dados originais para criar tabelas de dimensão específicas como D_Produtos e D_Descontos.
 
